@@ -31,13 +31,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/l1M0wiA.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/doQOOGd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://i.imgur.com/doQOOGd.gif
 https://imgur.com/l1M0wiA
 https://i.imgur.com/l1M0wiA.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Microsoft Windows Screen Recording / windows + alt + r
+GIF created with Microsoft Windows Screen Recording / windows + alt + r, I then converted the MP4 into a GIF using this online converter, https://cloudconvert.com/mp4-to-gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
